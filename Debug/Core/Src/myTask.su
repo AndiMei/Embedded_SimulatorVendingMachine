@@ -1,0 +1,6 @@
+myTask.c:30:6:myTask_init	8	static
+myTask.c:40:6:myTask_Run	8	static
+myTask.c:375:7:PB_Process	16	static
+myTask.c:386:7:PB_Cancel	16	static
+myTask.c:419:7:Detect_1000	16	static
+myTask.c:430:7:Detect_500	16	static

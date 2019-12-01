@@ -1,0 +1,3 @@
+myADC.c:10:6:myADC_init	24	static
+myADC.c:50:6:myADC_Start	8	static
+myADC.c:53:10:myADC_read	4	static
